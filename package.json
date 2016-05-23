@@ -1,6 +1,6 @@
 {
   "name": "react-three-renderer-html3d",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTML 3D component for react-three-renderer. Allow to render a HTML react component in 3D",
   "main": "src/index.js",
   "scripts": {
