@@ -1,0 +1,32 @@
+{
+  "name": "react-three-renderer-html3d",
+  "version": "0.1.0",
+  "description": "HTML 3D component for react-three-renderer. Allow to render a HTML react component in 3D",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colmea/react-three-renderer-html3d.git"
+  },
+  "dependencies": {
+    "react-addons-css-transition-group": "^15.0.2",
+    "react-three-renderer": "^0.1.2",
+    "three": "^0.75.0"
+  },
+  "keywords": [
+    "react",
+    "three.js",
+    "3D",
+    "js",
+    "javascript",
+    "CSS3D"
+  ],
+  "author": "Arthur Schwaiger <arthur.schwaiger@gmail.com> (@Colmeo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colmea/react-three-renderer-html3d/issues"
+  },
+  "homepage": "https://github.com/Colmea/react-three-renderer-html3d#readme"
+}
